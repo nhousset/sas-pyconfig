@@ -1,8 +1,3 @@
----
-category: SAS Configurator for Open Source
-tocprty: 1
----
-
 # SAS Configurator for Open Source Options
 
 ## Overview
